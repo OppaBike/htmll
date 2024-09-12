@@ -88,7 +88,7 @@ footer {
 }
 @media (max-width: 768px) {
     div.logo img {
-        width: 400px;
+        width: 300px;
     }
 
     .block {
